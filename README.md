@@ -7,7 +7,7 @@ A simple python package for drawing attractive chemical reaction energy level di
 
 What do I need?
 ------
-`rxnlvl` requires Python 2.x or later.
+`rxnlvl` supported Python 2.x and Python3.x.
 
 How do I work it?
 ------

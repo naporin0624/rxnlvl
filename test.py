@@ -2,7 +2,7 @@
 
 # Boilerplate
 import sys
-sys.path.insert(1,"/home/user/bin/rxnlvl/") # Change this to the full path of rxnlvl
+sys.path.insert(1,"./rxnlvl/") # Change this to the full path of rxnlvl
 from rxnlvl import *
 
 # Plot
